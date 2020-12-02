@@ -1,0 +1,6 @@
+#copyRight{
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
